@@ -1,6 +1,7 @@
 ## directories
 text_preprocessing/
 2-TF/.ipynb_checkpoints/
+2-TF/data/
 ## Files
 .python-version
 2-TF/iris.*
