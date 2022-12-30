@@ -20,3 +20,4 @@ datasets==1.17.0
 # Attention visualize
 bertviz==1.0.0
 adjustText
+spacy
